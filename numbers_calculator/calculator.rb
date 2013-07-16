@@ -1,17 +1,15 @@
 class Calculator
-  def add(a, b)
-    a + b
-  end
-  
-  def subtract(a, b)
-    a - b
-  end
-
-  def multiply(a, b)
-    a * b
+  def initialize
+    @type = {
+      add:      -> (a, b) { a + b }
+      subtract: -> (a, b) { a - b }
+      multiply: -> (a, b) { a * b }
+      divide:   -> (a, b) { a / b }
+    }
   end
 
-  def divide(a, b)
-    a.to_f / b.to_f
+  def method_missing(calculation, a, b)
+    @type[calculation].call(a, b)
   end
+
 end
