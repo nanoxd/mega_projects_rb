@@ -44,7 +44,7 @@ Numbers
 
 **Credit Card Validator** – Takes in a credit card number from a common credit card vendor (Visa, MasterCard, American Express, Discoverer) and validates it to make sure that it is a valid number (look into how credit cards use a checksum).
 
-**Tax Calculator** – Asks the user to enter a cost and either a country or state tax. It then returns the tax plus the total cost with tax.
+[**Tax Calculator**](https://github.com/NanoXD/mega_projects_rb/tree/master/numbers_tax_calculator) – Asks the user to enter a cost and either a country or state tax. It then returns the tax plus the total cost with tax.
 
 **Dijkstra’s Algorithm** – Create a program that finds the shortest path through a graph using its edges.
 
