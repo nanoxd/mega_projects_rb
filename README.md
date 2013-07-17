@@ -32,7 +32,7 @@ Numbers
 
 **Change Return Program** – The user enters a cost and then the amount of money given. The program will figure out the change and the number of quarters, dimes, nickels, pennies needed for the change.
 
-**Binary to Decimal and Back Converter** – Develop a converter to convert a decimal number to binary or a binary number to its decimal equivalent.
+[**Binary to Decimal and Back Converter**](https://github.com/NanoXD/mega_projects_rb/tree/master/numbers_binary_decimal) – Develop a converter to convert a decimal number to binary or a binary number to its decimal equivalent.
 
 [**Calculator**](https://github.com/NanoXD/mega_projects_rb/tree/master/numbers_calculator) – A simple calculator to do basic operators. Make it a scientific calculator for added complexity.
 
