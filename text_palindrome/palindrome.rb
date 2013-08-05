@@ -4,11 +4,7 @@ class Palindrome
   end
 
   def convert
-    if @palindrome == @palindrome.reverse
-      true
-    else
-      false
-    end
+    @palindrome == @palindrome.reverse
   end
 
 end
