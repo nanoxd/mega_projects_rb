@@ -5,7 +5,7 @@ Trying to complete all projects from [Martyr2’s Mega Project List](http://www.
 
 Some details:
 
-* I will use Ruby to solve these. Why? Because I want to learn the language quickly.
+* I will use Ruby to solve these. Why? Because I want to learn the language better.
 * I have no interest in making games, so I'm excluding those from the list below.
 * The projects will not be made in the order posted.
 * I may not be able to complete all of them.
